@@ -59,7 +59,7 @@ $$E_{n,\ell} = \frac{\hbar^2}{2m_0}\left[\left(\frac{n\pi}{\delta a}\right)^2 + 
 ### Elliptical Annulus
 Position-dependent curvature solved by the **variational method** with basis:
 
-$$\phi_{t,n}(\rho,\eta) = \left\{\begin{array}{l}\cos(t\eta)\\\sin(t\eta)\end{array}\right\}\sin\!\left(\frac{n\pi(\rho+\rho_0)}{2\rho_0}\right)$$
+$$\phi_{t,n}(\rho,\eta) = \begin{cases}\cos(t\eta)\\\sin(t\eta)\end{cases}\sin\!\left(\frac{n\pi(\rho+\rho_0)}{2\rho_0}\right)$$
 
 Probability density localises near bends (high curvature, deep pseudo-potential).
 
