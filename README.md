@@ -40,7 +40,7 @@ where $R_1$ and $R_2$ are the principal radii of curvature of the surface.
 ### Linear Strip
 Analytical eigenfunctions:
 
-$$\psi_{m,n}(x,y) = \sqrt{\frac{4}{ab}}\sin\!\left(\frac{m\pi x}{a}\right)\sin\!\left(\frac{n\pi y}{b}\right)$$
+$$\psi_{m,n}(x,y) = \sqrt{\frac{4}{ab}}\sin \left(\frac{m\pi x}{a}\right)\sin \left(\frac{n\pi y}{b}\right)$$
 
 ### Circular Annulus
 Bessel function eigenstates with eigenvalues $k_{m,n}$ satisfying:
